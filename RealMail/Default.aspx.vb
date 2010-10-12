@@ -9,7 +9,7 @@ Partial Class _Default
 
 #Region "Declarations"
 
-    ' message elements madiha testing
+    ' message elements madiha testing madiha
     Private mMailServer As String
     Private mTo As String
     Private mFrom As String
